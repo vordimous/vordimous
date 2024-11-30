@@ -4,7 +4,7 @@ My name is AJ Danelz
 Software Engineer and Advocate
 ------------------------------
 
-I am a full-stack cloud application engineer, and developer advocate passionate about distributed cloud application design and implementation. I accomplish this through diligent design and programming, with a strong focus on DevOps and orchestration. I will contribute to the success of a software project by being a strong proponent of these ideals, advocating internally and externally for the developer community.
+I am a full-stack cloud application engineer and developer advocate passionate about distributed cloud applications. I am a golang enthusiast trapped in a Java dev's body. I have been a cloud-native aficionado since the moment I learned there was a world outside of VMs and server racks. My passions for event streaming and microservices fit nicely in the cloud. I love working for a global company, working with both technical and non-technical team members. I have served in a leadership role for the majority of my development career. In any role, I will contribute to the success of a software project by advocating internally and externally for all developers.
 
 [Portfolio](https://wellaged.dev/) | [linkt.ree](https://linktr.ee/vordimous)
 
