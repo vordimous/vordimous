@@ -21,9 +21,3 @@ I am a full-stack cloud application engineer, and developer advocate passionate 
 [![AJ Danelz's GitHub stats](https://github-readme-stats.vercel.app/api?username=vordimous&show_icons=true&hide=stars&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vordimous&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&hide=javascript,css,html,scss)](https://github.com/vordimous)
-
-<b>Top Repositories</b>
-
-[![vordimous/gohlay](https://github-readme-stats.vercel.app/api/pin/?username=vordimous&repo=gohlay&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/vordimous/gohlay)
-[![aklivity/zilla-examples](https://github-readme-stats.vercel.app/api/pin/?username=aklivity&repo=zilla-examples&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/aklivity/zilla-examples)
-[![aklivity/zilla-demos](https://github-readme-stats.vercel.app/api/pin/?username=aklivity&repo=zilla-demos&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en)](https://github.com/aklivity/zilla-demos)
