@@ -1,8 +1,6 @@
-My name is AJ Danelz
-==========================
+# My name is AJ Danelz
 
-Software Engineer and Advocate
-------------------------------
+## Software Engineer and Advocate
 
 I am a full-stack cloud application engineer and developer advocate passionate about distributed cloud applications. I am a golang enthusiast trapped in a Java dev's body. I have been a cloud-native aficionado since the moment I learned there was a world outside of VMs and server racks. My passions for event streaming and microservices fit nicely in the cloud. I love working for a global company, working with both technical and non-technical team members. I have served in a leadership role for the majority of my development career. In any role, I will contribute to the success of a software project by advocating internally and externally for all developers.
 
@@ -17,10 +15,6 @@ I am a full-stack cloud application engineer and developer advocate passionate a
 ### DISCLAIMER
 
 I have a personal policy against any type of live coding or online coding tests during interviews. Otherwise, I am happy to work offline on coding assignments with reasonable goals and deadlines and to have in-depth technical discussions about software architecture and design as well as relevant technologies.
-
-### Badges
-
-<b>My GitHub Stats</b>
 
 [![AJ Danelz's GitHub stats](https://github-readme-stats.vercel.app/api?username=vordimous&show_icons=true&hide=stars&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
